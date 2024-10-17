@@ -1,0 +1,2 @@
+# AmazonClone
+my first project
